@@ -1,6 +1,6 @@
 # AvoidHasPermalinkDuplicates
 
-TODO: Write a gem description
+This is an add-on to avoid "has_permalink" gem duplicates/conflicts in Rails by adding a small hash to the end of the permalink!
 
 ## Installation
 
