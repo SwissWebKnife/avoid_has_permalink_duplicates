@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "avoid_has_permalink_duplicates"
   spec.version       = AvoidHasPermalinkDuplicates::VERSION
   spec.authors       = ["Yehia Abo El-Nga"]
-  spec.email         = ["yehia@devrok.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["yehia@ewsalo.com"]
+  spec.description   = "This is an add-on to avoid "has_permalink" gem duplicates/conflicts in Rails by adding a small hash to the end of the permalink!"
+  spec.summary       = "This is an add-on to avoid "has_permalink" gem duplicates/conflicts in Rails by adding a small hash to the end of the permalink!"
   spec.homepage      = ""
   spec.license       = "MIT"
 
