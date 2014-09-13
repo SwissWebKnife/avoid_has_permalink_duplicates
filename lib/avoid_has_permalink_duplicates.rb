@@ -17,4 +17,4 @@ module AvoidHasPermalinkDuplicates
 	end
 end
 
-ActiveRecord::Base.send :include, EwsaloBlog::AvoidHasPermalinkDuplicates
+ActiveRecord::Base.send :include, AvoidHasPermalinkDuplicates
